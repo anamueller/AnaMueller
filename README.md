@@ -4,6 +4,7 @@
 - Although I love everything about computer science, cybersecurity sparks my interest the most 👨‍💻
 
 <div>  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaMueller&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
   <img align="left" height="200" alt="coding-time" src="mulher.gif">
 </div><br>
