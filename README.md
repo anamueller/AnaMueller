@@ -1,5 +1,7 @@
 ### Welcome coders, devs, and any computer science lover!
 
+![](https://github.com/anamueller/AnaMueller/blob/main/JXA0.gif)
+
 <!--
 **anamueller/AnaMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
