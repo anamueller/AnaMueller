@@ -11,7 +11,8 @@
   <img align="left" height="200" alt="coding-time" src="mulher.gif">
   <h1 align="center">Familiar Languages</h1>
   <img align="center" height="50" width="50" alt="python"  src=python-removebg-preview.png>
-  <img align="center" height="35" width="35" alt="c"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
+  <img align="center" height="35" width="30" alt="c"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
+  <img align="center" height="50" width="70" alt="c++"  src=c++-removebg-preview.png>
    <img align="center" height="40" width="35" alt="java"  src=java-removebg-preview.png>
    <img align="center" height="40" width="40" alt="assembly"  src=Assembly-logo-removebg-preview.png>
 </div><br>
