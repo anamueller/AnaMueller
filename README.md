@@ -12,8 +12,8 @@
   <h1 align="center">Familiar Languages</h1>
   <img align="center" height="50" width="50" alt="python"  src=python-removebg-preview.png>
   <img align="center" height="35" width="35" alt="c"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png">
-   <img align="center" height="40" width="35" alt="java"  src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
-   <img align="center" height="40" width="40" alt="assembly"  src="https://static.thenounproject.com/png/762420-200.png">
+   <img align="center" height="40" width="35" alt="java"  src=java-removebg-preview.png>
+   <img align="center" height="40" width="40" alt="assembly"  src=Assembly-logo-removebg-preview.png>
 </div><br>
 
 <!--
