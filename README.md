@@ -1,5 +1,7 @@
 ### Welcome coders, devs, and any computer science lover!
 
+- My name is Ana Clara, currently a student of Computer Science at UNIFESP
+
 ![](https://github.com/anamueller/AnaMueller/blob/main/mulher.gif)
 
 <!--
