@@ -1,6 +1,7 @@
 ### Welcome coders, devs, and any computer science lover!
 
-- My name is Ana Clara, currently a student of Computer Science at UNIFESP
+- My name is Ana Clara, and I am currently studying Computer Science at UNIFESP 💻
+- Although I love everything about computer science, cybersecurity sparks my interest the most 👨‍💻
 
 ![](https://github.com/anamueller/AnaMueller/blob/main/mulher.gif)
 
