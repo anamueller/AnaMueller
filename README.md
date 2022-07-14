@@ -3,7 +3,10 @@
 - My name is Ana Clara, and I am currently studying Computer Science at UNIFESP 💻
 - Although I love everything about computer science, cybersecurity sparks my interest the most 👨‍💻
 
-![](https://github.com/anamueller/AnaMueller/blob/main/mulher.gif)
+<div>  
+  <img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="left" height="200" alt="coding-time" src="mulher.gif">
+</div><br>
 
 <!--
 **anamueller/AnaMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
