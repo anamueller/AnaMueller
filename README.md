@@ -1,7 +1,7 @@
 ### Welcome coders, devs, and any computer science lover!
 
 - My name is Ana Clara, and I am currently studying Computer Science (7th semester) at UNIFESP 💻
-- Although I love everything about computer science, cybersecurity sparks my interest the most 👨‍💻
+- Although I love everything about computer science, cybersecurity and coding sparks my interest the most 👨‍💻
 
 <div>  
   <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaMueller&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
