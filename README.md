@@ -18,7 +18,7 @@
    <img align="center" height="50" width="40" alt="html"  src=html2.png>
   
   <h1 align="center">Visit my website!</h1>
-  <a href="http://anamueller.pythonanywhere.com/">Click here</a>
+  <a align="center" href="http://anamueller.pythonanywhere.com/">Ana Clara M M</a>
   
 </div><br>
 
