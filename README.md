@@ -15,7 +15,7 @@
   <img align="center" height="40" width="40" alt="c++"  src=c++remove.png>
    <img align="center" height="40" width="35" alt="java"  src=java-removebg-preview.png>
    <img align="center" height="40" width="40" alt="assembly"  src=Assembly-logo-removebg-preview.png>
-   <img align="center" height="40" width="40" alt="html"  src=html.png>
+   <img align="center" height="50" width="40" alt="html"  src=html.png>
 </div><br>
 
 <!--
