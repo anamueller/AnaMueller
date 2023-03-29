@@ -4,7 +4,7 @@
 - Although I love everything about computer science, cybersecurity and coding sparks my interest the most 👨‍💻
 
 <div>  
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaMueller&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+  <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnaMueller&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnaMueller&layout=compact&langs_count=16&theme="/>
   
 <div  align="center"> 
