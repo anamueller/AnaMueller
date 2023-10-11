@@ -16,6 +16,7 @@
    <img align="center" height="40" width="35" alt="java"  src=java-removebg-preview.png>
    <img align="center" height="40" width="40" alt="assembly"  src=Assembly-logo-removebg-preview.png>
    <img align="center" height="50" width="40" alt="html"  src=html2.png>
+   <img align="center" height="50" width="40" alt="sql"  src=sql.png>
   
   <h1 align="center">Visit my website!</h1>
   <a align="center" href="http://anamueller.pythonanywhere.com/">Ana Clara M M</a>
