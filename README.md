@@ -1,6 +1,6 @@
 ### Welcome coders, devs, and any computer science lover!
 
-- My name is Ana Clara, and I am currently studying Computer Science (7th semester) at UNIFESP 💻
+- My name is Ana Clara, and I am currently studying Computer Science (8th semester) at UNIFESP 💻
 - Although I love everything about computer science, cybersecurity and data science sparks my interest the most 👨‍💻
 
 <div>  
